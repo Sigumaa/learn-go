@@ -24,4 +24,5 @@ func main() {
 	}
 
 	fmt.Printf("%#v\n", c)
+	// main.ConfidentialCustomer{CustomerId:1, CreditCard:xxxx-xxxx-xxxx-xxxx}
 }
